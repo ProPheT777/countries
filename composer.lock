@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "582ab889d41a67c111fc3e88449f78cc",
+    "content-hash": "ecc5a81e22d27a86dcba3afbacb97274",
     "packages": [
         {
             "name": "symfony/console",

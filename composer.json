@@ -1,6 +1,5 @@
 {
   "name": "prophet777/countries",
-  "version": "2.0.0",
   "description": "List of world countries in JSON, CSV, XML and Yaml",
   "keywords": ["world", "countries", "json", "csv", "xml", "yaml"],
   "homepage": "https://mledoze.github.io/countries/",
